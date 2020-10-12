@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "118410139876",
+    "firebase_url": "https://humbirds-5f753.firebaseio.com",
+    "project_id": "humbirds-5f753",
+    "storage_bucket": "humbirds-5f753.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118410139876:android:04c4f9b0f2bea68a8274f1",
+        "android_client_info": {
+          "package_name": "com.appdev_soumitri.humbirds"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "118410139876-a0qbp50u8rjv9lf9k4ls6j8l800hlm3a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appdev_soumitri.humbirds",
+            "certificate_hash": "bc3216acf22e6b7c88cafa5a6a40ed8f53935f2f"
+          }
+        },
+        {
+          "client_id": "118410139876-8stcou5ukbjd5lj9oddutnqvh180liig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvGFuWR0vE0QAZFLSuWXSnI2tzT-JvNIQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "118410139876-8stcou5ukbjd5lj9oddutnqvh180liig.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
